@@ -1,0 +1,39 @@
+.main-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: aqua;
+}
+.home-about-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.para{
+    margin: 5px;
+    font-size: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
+.logo{
+    height: 80px;
+    width: 80px;
+}
+.js-image-container{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+}
+.JS-heading{
+    font-size: 30px;
+    margin-top: 30px;
+    padding: 5px;
+    margin-left: 10px;
+}
+.second-container{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
